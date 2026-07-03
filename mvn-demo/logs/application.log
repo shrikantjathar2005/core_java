@@ -1,0 +1,6 @@
+03-07-2026 14:31:20 DEBUG LogDemo - Debug Message
+03-07-2026 14:31:20 INFO  LogDemo - Application Started
+03-07-2026 14:31:20 WARN  LogDemo - Low Memory Warning
+03-07-2026 14:31:20 ERROR LogDemo - Database Connection Failed
+03-07-2026 14:31:20 FATAL LogDemo - System Crash
+03-07-2026 14:31:20 INFO  LogDemo - Application Ended
