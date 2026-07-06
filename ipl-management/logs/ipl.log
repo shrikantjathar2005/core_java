@@ -1,0 +1,18 @@
+05-07-2026 23:32:37 INFO  DbUtil - Database connection established.
+05-07-2026 23:38:38 INFO  DbUtil - Database connection established.
+05-07-2026 23:38:38 INFO  PlayerDaoJdbcImpl - Team added : TEST
+05-07-2026 23:38:38 INFO  PlayerDaoJdbcImpl - Player added : Test Player
+05-07-2026 23:38:38 INFO  PlayerDaoJdbcImpl - Player deleted : Test Player
+05-07-2026 23:38:38 INFO  PlayerDaoJdbcImpl - Team added : TEST
+05-07-2026 23:38:38 INFO  PlayerDaoJdbcImpl - Player added : Test Player
+05-07-2026 23:38:38 INFO  PlayerDaoJdbcImpl - Player deleted : Test Player
+05-07-2026 23:38:38 INFO  PlayerDaoJdbcImpl - Team added : TEST
+05-07-2026 23:38:38 INFO  PlayerDaoJdbcImpl - Player added : Test Player
+05-07-2026 23:38:38 INFO  PlayerDaoJdbcImpl - Player deleted : Test Player
+05-07-2026 23:38:38 WARN  PlayerDaoJdbcImpl - Player not found : Test Player
+05-07-2026 23:38:38 INFO  PlayerDaoJdbcImpl - Team added : TEST
+05-07-2026 23:38:38 INFO  PlayerDaoJdbcImpl - Player added : Test Player
+05-07-2026 23:38:38 INFO  PlayerDaoJdbcImpl - Player deleted : Test Player
+05-07-2026 23:38:38 INFO  PlayerDaoJdbcImpl - Team added : TEST
+05-07-2026 23:38:38 INFO  PlayerDaoJdbcImpl - Player added : Test Player
+05-07-2026 23:38:38 INFO  PlayerDaoJdbcImpl - Player deleted : Test Player

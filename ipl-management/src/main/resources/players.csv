@@ -1,0 +1,26 @@
+﻿Team,JerseyNumber,PlayerName,BidAmount,Role
+CSK,7,MS Dhoni,4,WICKET_KEEPER
+CSK,8,Ravindra Jadeja,18,ALL_ROUNDER
+CSK,99,R Ashwin,9.75,BOWLER
+CSK,25,Shivam Dube,12,BATTER
+CSK,11,Ruturaj Gaikwad,18,BATTER
+MI,45,Rohit Sharma,16.3,BATTER
+MI,93,Jasprit Bumrah,18,BOWLER
+MI,33,Hardik Pandya,16.35,ALL_ROUNDER
+MI,63,Suryakumar Yadav,16.35,BATTER
+MI,77,Tilak Varma,8,BATTER
+RCB,18,Virat Kohli,21,BATTER
+RCB,97,Josh Hazlewood,12.5,BOWLER
+RCB,32,Rajat Patidar,11,BATTER
+RCB,19,Bhuvneshwar Kumar,10.75,BOWLER
+RCB,11,Phil Salt,11.5,BATTER
+GT,66,Shubman Gill,16.5,BATTER
+GT,19,Mohammed Siraj,12.25,BOWLER
+GT,99,Rashid Khan,18,BOWLER
+GT,7,Rahul Tewatia,4,ALL_ROUNDER
+GT,24,Washington Sundar,3.2,ALL_ROUNDER
+KKR,74,Rinku Singh,13,BATTER
+KKR,12,Sunil Narine,12,BOWLER
+KKR,23,Andre Russell,12,ALL_ROUNDER
+KKR,29,Varun Chakravarthy,12,BOWLER
+KKR,17,Ajinkya Rahane,1.5,BATTER
